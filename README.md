@@ -25,7 +25,7 @@ This repository implements Bollinger Bands — a popular technical analysis tool
 
 ## **Author**  
 
-Viren Ghaghada
+**Viren Ghaghada**  
 LinkedIn | Email | GitHub | My Portfolio
 
 ## **Disclaimer**  
