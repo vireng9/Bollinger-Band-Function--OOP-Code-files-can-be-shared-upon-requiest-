@@ -23,10 +23,10 @@ This repository implements Bollinger Bands — a popular technical analysis tool
 - Parameter Sensitivity: Choice of window size and standard deviation multiplier can significantly affect results.
 - Market Conditions: Works best in trending or volatile markets; less effective in low-volatility environments.
 
-## **Author**  
+## Author
 
 **Viren Ghaghada**  
-LinkedIn | Email | GitHub | My Portfolio
+[LinkedIn](https://www.linkedin/in/virenghaghada) | [Email](mailto:vireng9@yahoo.com) | [GitHub](https://www.github.com/vireng9) | [My Portfolio](https://vireng9.github.io/)  
 
-## **Disclaimer**  
+## Disclaimer
 This project is for educational and research purpose only. It should not be considered as a financial advice or a production-ready trading system.
